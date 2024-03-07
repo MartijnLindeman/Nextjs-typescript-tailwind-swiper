@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "They are awsome!!!",
+    "tagline": "NEXTJS & SWIPER SLIDER",
+    "image": "/image1.jpg",
+    "buttons": [
+      {
+        "id": 1,
+        "text": "Test Slide",
+        "link": "https://www.pexels.com/",
+        "type": "btn-dark btn-circle"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "GIVE IT A SHOT",
+    "tagline": "IF YOU LIKE IT",
+    "image": "/image2.jpg",
+    "buttons": [
+      {
+        "id": 1,
+        "text": "Test Slide",
+        "link": "https://www.pexels.com/",
+        "type": "btn-dark btn-circle"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "GIVE IT A SHOT",
+    "tagline": "IF YOU LIKE IT",
+    "image": "/image3.jpg",
+    "buttons": [
+      {
+        "id": 1,
+        "text": "Test Slide",
+        "link": "https://www.pexels.com/",
+        "type": "btn-dark btn-circle"
+      }
+    ]
+  }
+]
